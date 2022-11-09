@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **DSA**
 
-- 💬 Ask me about **React, JavaScript and HTML&CSS**
+- 💬 Ask me about **React, JavaScript, HTML&CSS**
 
 - 📫 How to reach me **rhutwik.jaiswal24@gmail.com**
 
