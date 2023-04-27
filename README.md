@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhutwikjaiswal&label=Profile%20views&color=0e75b6&style=flat" alt="rhutwikjaiswal" /> </p>
 
-- 🔭 I’m currently working on **Hotel-App**
+- 🔭 I’m currently working as PHP Developer Intern.
 
 - 🌱 I’m currently learning **Full Stack Development**
 
